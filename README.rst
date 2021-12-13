@@ -1,40 +1,69 @@
-AlertOps Expert Guidance
+Network Operations Center Best Practices (in 2021)
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Network Operations Center (NOC) is responsible for network monitoring, incident response, and other network operations activities — and you want to optimize its performance.
 
-Not One Size Fits All
+To achieve your goal, your Network Operations Center team assesses data and explores ways to improve its everyday operations. The team may also implement NOC best practices or craft some of its own.
+
+What Are NOC, and Why Are They Important?
 =====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Network operations center teams manage network availability and performance, along with servers, databases, firewalls, devices, and related external services. They also face technical and business challenges that can make it difficult to keep networks up and running at top levels. These challenges include:
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+    Poor communication and collaboration across teams
+    Use of disparate tools from multiple vendors
+    Lack of insights into NOC technologies and how to use them
 
-Automate Processes
+Your network operations team does its part to support your enterprise and its stakeholders, regardless of the challenges it faces. But, your team may require significant time and resources to resolve various challenges — and as a result, misses out on opportunities to improve network availability and performance.
+
+With network operations center best practices, your NOC team can use industry-proven processes, strategies, and techniques to get the most value out of your network operations. Best practices have been tested extensively, and they have been shown to help NOC teams achieve the best-possible results. Thus, if your NOC team uses best practices, it may help your enterprise maximize network availability and performance. Over time, your NOC team may even perfect best practices and develop new ones based on data and insights retrieved from incident reports.
+
+ (NOC) Practices to be followed
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Here are eight best practices that your NOC team can use to enhance your enterprise’s network operations:
+1. Continuously Monitor Information and Network Systems
 
-Clarity
+A proactive approach to information and network system monitoring is crucial. If a network operations center team continuously tracks network activity, it can identify problems before they escalate. Plus, the team can stop IT outages and downtime that otherwise can damage your enterprise’s brand reputation and revenues.
+2. Prioritize Incident Response and Remediation
+
+Your NOC team must find ways to detect and resolve incidents — as quickly and efficiently as possible. In the event that an outage occurs, your NOC team must have processes, protocols, and procedures in place to address the issue and limit its impact. Your NOC team must also communicate with key stakeholders throughout an incident and ensure that they are kept up to date until the incident is resolved.
+3. Escalate Incidents Based on Group
+
+Incidents must be escalated, depending on their severity. Your network operations center team can use an incident management platform that allows team members to set up escalation groups and add on-call schedules for automatic escalations. This platform will enable your NOC team to establish custom escalations that fall in line with your enterprise’s needs, too.
+4. Identify and Mitigate Incidents Based on Specific Criteria
+
+Incidents should be classified based on SLAs, their impact on stakeholders, and other criteria. With a classification system in place, your NOC team can determine how incidents affect your enterprise and its stakeholders. Additionally, a classification system can help your NOC team determine which incidents have the biggest impact on your network operations.
+5. Collect Performance Data and Generate Reports
+
+Your NOC team must retrieve performance data and evaluate it regularly. The team can use this information to produce reports and identify performance trends and patterns. It can also leverage data and reports to find ways to constantly improve its performance.
+6. Document Incident Response Activities
+
+Ensure that all incident response activities are documented and tracked. NOC team members must document when an incident occurs and any actions that were used to resolve it. They must also review incident reports to determine their strengths and weaknesses. With these insights in hand, NOC team members can uncover ways to improve your enterprise’s incident response.
+7. Perform Regular NOC System Testing
+
+NOC systems should be tested regularly, with results of these tests tracked and evaluated. If any system issues are identified, they should be resolved immediately. NOC system testing can provide NOC team members with insights into potential availability and performance problems. It allows NOC team members to determine the best way to restore systems if outages occur, too.
+8. Ensure Multiple Team Members Are Available to Deliver Ongoing NOC Support
+
+There must always be multiple NOC team members available to provide support. Schedules must be established that ensure NOC team members can respond to an incident as soon as it happens. NOC team schedules should be updated frequently to ensure up-to-date availability information is available. Systems must also be in place to ensure that the right NOC team members receive timely, relevant notifications if an incident occurs.
+
+Tips to Implement Best Practices
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+NOC best practices are beneficial if they are implemented correctly. Here are three tips to help your NOC team successfully implement best practices across your enterprise’s network operations:
+1. Take a Phased Approach to Implementation
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Implement NOC best practices gradually. Ensure NOC team members understand and follow a NOC best practice and can teach others how to comply with it. Then, implement the next best practice.
+2. Establish Realistic Expectations
 
-Insightful Notifications
+Recognize that NOC best practices can be difficult to implement, and there may be mistakes throughout the implementation process. Be patient, and understand that errors may occur as NOC team members try to implement best practices. If errors occur, accept and learn from them.
+3. Track Your Progress and Continuously Improve
+
+Evaluate the effectiveness of NOC best practices. Remember, certain best practices may suit your enterprise and its NOC team better than others. With continuous evaluation of NOC best practices, you can determine which of these practices are ideal for your enterprise.
+
+The AlertOps platform can have far-flung effects on a NOC team and its best practices, too. Our platform allows NOC teams to track all stages of an incident, communicate with key stakeholders throughout an incident, and more.
+
+source
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
-
-source:
-====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/noc-best-practices/
 
 Read more:
 ====
